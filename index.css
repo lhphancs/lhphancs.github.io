@@ -1,0 +1,48 @@
+body{
+    padding:30px;
+}
+
+.primary-background{
+    background-color: #ecf6ff;
+}
+
+.secondary-background{
+    background-color: #49a8ab;
+}
+
+.text-bold{
+    font-weight: bold;
+}
+
+.img-profile{
+    width:100px;
+    height:100px;
+    border-radius: 20%;
+}
+
+.inline-block {
+   display: inline-block;
+}
+
+.uci-logo{
+    width:50px;
+    height:50px;
+    vertical-align: bottom;
+}
+
+.projects-container{
+    border: 1px solid grey;
+}
+
+.cards-container{
+    padding:15px;
+}
+
+.header-bar{
+    padding: 5px;
+}
+.card-logo{
+    border: 1px solid black;
+    width:100px;
+    height:100px;
+}
